@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShiftPlanner.Application/ShiftPlanner.Application.csproj" />
+    <Project Path="src/ShiftPlanner.Domain/ShiftPlanner.Domain.csproj" />
+    <Project Path="src/ShiftPlanner.Infrastructure/ShiftPlanner.Infrastructure.csproj" />
+    <Project Path="src/ShiftPlanner.Web/ShiftPlanner.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ShiftPlanner.Application.Tests/ShiftPlanner.Application.Tests.csproj" />
+  </Folder>
+</Solution>
