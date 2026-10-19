@@ -98,6 +98,7 @@ dotnet run --project src/ShiftPlanner.Web
 
 **Version 2 (planned)**
 
+- MCP server built with the official C# SDK (`ModelContextProtocol`), so an AI assistant can query the rota and check it against the same validation engine. Example questions: "Who can cover Saturday night at the bar?" or "Does this week's rota break any rule?"
 - Shift swap requests between employees, approved by a manager
 - Real-time rota updates with SignalR
 
